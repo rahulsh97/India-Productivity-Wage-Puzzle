@@ -2,7 +2,7 @@
 
 Replication package for **"Productivity up, wages flat: India's manufacturing growth has stopped working for its workers"** by Rahul Shukla (International Growth Centre), published in *Ideas for India* (2026).
 
-> Article link: If the article is published, I will update the link here.
+> Article link: https://www.ideasforindia.in/topics/macroeconomics/productivity-up-wages-flat-how-indias-manufacturing-growth-has-stopped-working-for-its-workers
 
 This repository contains the full data and Stata code behind every statistic and every figure in the article. Anyone can re-run the analysis end to end from the source workbook in a single do-file.
 
